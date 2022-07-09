@@ -57,3 +57,10 @@ Here is config node in general section and what they stand for:
 | initialBlockingLoading           | Should the player wait until skin load completely to join the server. Set it to false if you want player join server faster, but player will have when skin next join instead. | true    |
 | printStackTracesIfSkinLoadFailed | Print exception stack trace, used for debug.                                                                                                                                   | false   |
 | playerSkinCacheTimeInSeconds     | How long will the player's skin refresh in seconds.                                                                                                                            | 600     |
+
+# Build 
+```
+git clone https://github.com/KujouMolean/VelocitySkinLoader.git
+
+cd VelocitySkinLoader && mvn clean package
+```
