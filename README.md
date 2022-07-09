@@ -6,8 +6,8 @@ A light-weight plugin load your custom skin for Velocity.
 
 # Current supported skin
 
-[x] Blessing Skin
-[x] Official Skin
+ [x] Blessing Skin
+ [x] Official Skin
 
 
 # Default load list
